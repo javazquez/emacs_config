@@ -13,7 +13,7 @@
 
 ;; reveal js config
 (require 'ox-reveal)
-(setq org-reveal-root )
+(setq org-reveal-root "Enter a local path here")
 ;(setq org-src-fontify-natively t)
 
 ;; add magit settings

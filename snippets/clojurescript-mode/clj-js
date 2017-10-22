@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: cljs
+# key: cljs
+# --
+(clj->js {:$1 })

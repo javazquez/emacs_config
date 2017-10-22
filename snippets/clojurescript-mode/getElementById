@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: getElement
+# key: getElement
+# --
+
+(js/document.getElementById "$1")

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: #js
+# key: #js
+# --
+
+#js {$1}

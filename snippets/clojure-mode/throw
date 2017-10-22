@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: throw
+# key: throw
+# --
+(throw (Exception.  (str "${1:My custom exception}" ))

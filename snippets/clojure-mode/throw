@@ -2,4 +2,4 @@
 # name: throw
 # key: throw
 # --
-(throw (Exception.  (str "${1:My custom exception}" ))
+(throw (Exception.  (str "${1:My custom exception}" )))
